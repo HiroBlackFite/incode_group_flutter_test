@@ -1,0 +1,44 @@
+{
+  "global": {
+    "error": "Error",
+    "close": "Close",
+    "somethingWentWrong": "Something went wrong!",
+    "connectingTimedOut": "Connecting timed out!",
+    "noInternetConnection": "No Internet connection",
+    "reset": "Reset",
+    "back": "Back"
+  },
+  "navigation": {
+    "home": "Home",
+    "list": "List"
+  },
+  "charactersStatistics": {
+    "total": "Total",
+    "success": "Success",
+    "failed": "Failed"
+  },
+  "homeScreen": {
+    "appBar": {
+      "title": "Home Screen"
+    },
+    "gryffindor": "Gryffindor",
+    "slytherin": "Slytherin",
+    "ravenclaw": "Ravenclaw",
+    "hufflepuff": "Hufflepuff",
+    "notInHouse": "Not in House"
+  },
+  "listCharacterScreen": {
+    "appBar": {
+      "title": "List Screen"
+    },
+    "attempts_args": "Attempts {}",
+    "filterCharacters": "Filter Characters..."
+  },
+  "detailsScreen": {
+    "house_args": "House: {}",
+    "dateOfBirth_args": "Date of birth: {}",
+    "actor_args": "Actor: {}",
+    "species_args": "Species: {}",
+    "accessDenied": "ACCESS DENIED"
+  }
+}
